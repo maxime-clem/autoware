@@ -90,3 +90,8 @@ repositories:
     type: git
     url: https://github.com/autowarefoundation/autoware_individual_params.git
     version: 79cff0ba014808050be6f5cb3b4764ba2c96c21c
+  # embotech prodriver integration
+  external/embotech_prodriver_connector:
+    type: git
+    url: git@github.com:tier4/embotech_prodriver_connector.git
+    version: main
